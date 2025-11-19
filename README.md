@@ -1,13 +1,17 @@
 🌍 Global Energy Consumption Analysis
+
+
 This repository contains a detailed Exploratory Data Analysis (EDA) of global energy consumption data, focusing on trends, dependencies, and environmental impact. The analysis is performed using a Jupyter Notebook.
 
 📊 Project Overview
+
 The main objective of this project is to analyze the various factors contributing to global energy usage, including renewable energy adoption, fossil fuel dependency, and the resulting carbon emissions, across different countries and years.
 
 📁 Repository Contents
+
 Copy of global energy consumed.ipynb: The main Jupyter Notebook containing all the data loading, cleaning, analysis, and visualization steps.
 R Studio file : In which visualization part is done .
-global energy used.csv: The dataset used for this analysis.
+global energy used.xlsx : The dataset used for this analysis.
 
 ✨ Key Analysis and Features
 The notebook performs the following key tasks:
